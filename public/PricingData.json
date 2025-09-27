@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": "$20/month",
+    "information": "Perfect for beginners who want access to essential gym equipment.",
+    "features": [
+      "Access to all cardio equipment",
+      "Access to basic strength machines",
+      "Locker room & shower access",
+      "1 group class per week",
+      "Free water station",
+      "Access during working hours",
+      "Fitness orientation session",
+      "Weekly health tips newsletter",
+      "Discounted upgrade options"
+    ],
+    "popular": "Popular"
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": "$40/month",
+    "information": "Ideal for fitness enthusiasts who want group classes and extended hours.",
+    "features": [
+      "Unlimited gym access",
+      "Access to all strength & cardio equipment",
+      "All group fitness classes (Yoga, Zumba, Aerobics)",
+      "Free fitness assessment every month",
+      "Extended gym hours (6am–11pm)",
+      "Discount on gym merchandise",
+      "Access to stretching & mobility sessions",
+      "Free guest pass (2 per month)",
+      "Locker room + steam room access",
+      "Basic nutrition guidance"
+    ],
+    "popular": "Most Popular"
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": "$70/month",
+    "information": "Best for those who want personal training and full benefits.",
+    "features": [
+      "Unlimited gym + group classes",
+      "Personal trainer (4 sessions/month)",
+      "Customized diet & nutrition plan",
+      "Sauna & spa access",
+      "Monthly body composition analysis",
+      "Free parking pass",
+      "Access to swimming pool",
+      "Priority booking for classes",
+      "2 free massage sessions/month",
+      "Discount on supplements",
+      "Free access to workshops & seminars",
+      "Workout tracking via mobile app"
+    ],
+    "popular": "Popular"
+  },
+  {
+    "id": 4,
+    "name": "VIP Plan",
+    "price": "$120/month",
+    "information": "For dedicated athletes who want luxury, flexibility, and maximum support.",
+    "features": [
+      "24/7 unlimited gym access",
+      "Unlimited personal training sessions",
+      "Customized diet & supplement plan",
+      "Massage & recovery sessions (weekly)",
+      "Private locker & shower with towel service",
+      "Invitation to exclusive fitness events",
+      "One-on-one physiotherapy session monthly",
+      "Dedicated nutritionist consultation",
+      "Priority support & VIP lounge",
+      "Free guest passes (unlimited)",
+      "Access to rooftop training zone",
+      "Cryotherapy & ice bath access",
+      "Exclusive members-only app features",
+      "Complimentary gym merchandise kit"
+    ],
+    "popular": "Most Popular"
+  }
+]
